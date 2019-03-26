@@ -1,1 +1,2 @@
-# python
+# Python
+* [Data types](../python-dtypes)
